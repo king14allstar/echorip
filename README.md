@@ -1,2 +1,2 @@
 # echorip
-A youtube udio downloader and music manager built in python
+A youtube audio downloader and music manager built in python
