@@ -7,9 +7,6 @@ EchoRip is a youtube downloader and audio manager written in Python. It supports
 -Dark mode GUI
 -Batch download support
 
-## Install
-Coming Soon
-
 ## License
 MIT
 
