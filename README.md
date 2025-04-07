@@ -24,3 +24,4 @@ Download the latest EchoRip release from the [Releases page]().
 1. Download and extract the `.zip` from the latest release
 2. Run `chocoffmpeg.bat` if needed
 3. Launch with `echorip v2.exe` 
+![echoripscreenshot1](https://github.com/user-attachments/assets/77c6c1cb-e25e-46a2-b8f8-7d0a917976b6)
