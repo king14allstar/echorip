@@ -1,4 +1,4 @@
-# echorip
+# EchoRip
 EchoRip is a youtube downloader and audio manager written in Python. It supports MP3/MP4 downloads, metadata tagging, and a sleek UI.
 
 ## Features
